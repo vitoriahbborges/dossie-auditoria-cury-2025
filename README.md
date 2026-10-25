@@ -1,4 +1,4 @@
-# Auditoria 1 — CURY — Vitória Helena Bastos Borges
+# Dossiê Acadêmico de Auditoria - Cury Construtora e Incorporadora S.A. (exercício 2025)
 
 Data documental: **24/10/2026**. Matrícula 241003419.
 
