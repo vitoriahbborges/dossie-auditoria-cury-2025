@@ -1,0 +1,9 @@
+metrica,valor
+registros,500000.0
+ids_unicos,500000.0
+saldo_bruto_reais,2457033000.0
+deducoes_reais,299090000.0
+saldo_liquido_reais,2157943000.0
+excecoes_inseridas,501.0
+excecoes_detectadas_censo,501.0
+excecoes_amostra_600,0.0
