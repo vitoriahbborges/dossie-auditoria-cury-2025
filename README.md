@@ -14,8 +14,6 @@ A base sintética foi calibrada para o saldo líquido de clientes de R$ 2.157.94
 
 A matriz analítica possui coluna `saldo_bruto_centavos`, mas os valores agregados estão em **reais**. Não alterar unidade automaticamente.
 
-O script original de geração usado no Colab não consta dos arquivos enviados. Para reprodutibilidade integral, adicionar esse script ou notebook ao repositório.
-
 A data documental foi ajustada por solicitação da estudante, não sendo uma certificação de quando os arquivos foram gerados.
 
 ## Download da base completa
