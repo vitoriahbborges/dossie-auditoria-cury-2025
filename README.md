@@ -17,3 +17,6 @@ A matriz analítica possui coluna `saldo_bruto_centavos`, mas os valores agregad
 O script original de geração usado no Colab não consta dos arquivos enviados. Para reprodutibilidade integral, adicionar esse script ou notebook ao repositório.
 
 A data documental foi ajustada por solicitação da estudante, não sendo uma certificação de quando os arquivos foram gerados.
+
+## Download da base completa
+https://docs.google.com/spreadsheets/d/1wbxUMKsK55tXEy-0NM6TtlNkCi8Kbc7rwL0FdouDxwY/edit?usp=sharing
