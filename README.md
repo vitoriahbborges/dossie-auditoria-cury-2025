@@ -1,6 +1,6 @@
-# # Dossiê Acadêmico de Auditoria — Cury Construtora e Incorporadora S.A. (2025)
+# Dossiê Acadêmico de Auditoria - Cury Construtora e Incorporadora S.A. (2025)
 
-**Universidade de Brasília — Auditoria 1 (CCA0024)**
+**Universidade de Brasília - Auditoria 1 (CCA0024)**
 
 **Discente:** Vitória Helena Bastos Borges  
 **Matrícula:** 241003419  
@@ -63,11 +63,11 @@ A reprodução da seleção amostral a partir da base entregue não equivale, po
 
 Foram incorporados os seguintes documentos:
 
-**PT 530 — Amostragem:** documentação do algoritmo de seleção e da verificação dos 600 registros.
+**PT 530 -Amostragem:** documentação do algoritmo de seleção e da verificação dos 600 registros.
 
-**PT 540 — Estimativas contábeis:** arquivo `resultados/memoria_calculo_PT540.xlsx`, com fórmulas editáveis e três cenários de sensibilidade das deduções sintéticas.
+**PT 540 - Estimativas contábeis:** arquivo `resultados/memoria_calculo_PT540.xlsx`, com fórmulas editáveis e três cenários de sensibilidade das deduções sintéticas.
 
-**PT 560 — Eventos subsequentes:** arquivo `resultados/pesquisa_eventos_subsequentes_PT560.xlsx`, contendo eventos identificados, datas, fontes documentais, classificações preliminares e limitações da pesquisa.
+**PT 560 - Eventos subsequentes:** arquivo `resultados/pesquisa_eventos_subsequentes_PT560.xlsx`, contendo eventos identificados, datas, fontes documentais, classificações preliminares e limitações da pesquisa.
 
 ## 6. Limitações metodológicas
 
