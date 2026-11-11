@@ -1,0 +1,7 @@
+Base: /mnt/data/correcao_C6/insumos/dados/base_500000_contas_receber_SINTETICA.csv.gz | registros: 500000
+Amostra: /mnt/data/correcao_C6/insumos/resultados/amostra_600_SINTETICA.csv | registros: 600
+Semente: 241003419
+Colunas iguais: True
+Identificadores na mesma ordem: True
+Conteúdo integral igual: True
+SUCESSO: seleção reproduzida a partir da base entregue.
